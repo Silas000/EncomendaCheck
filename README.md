@@ -1,2 +1,42 @@
-# EncomendaCheck
-Ferramenta feito para checar se a encomenda saiu para entrega. 
+
+# Encomenda Check
+
+Ferramenta que avisa movimentando o mouse em circulo quando a encomenda do correio sai  para ser entregue ao destinátario. 
+
+
+
+## Autores
+
+- [@Silas Rosário](https://www.github.com/Silas000)
+
+
+
+
+## Referência
+
+ - [Mover mouse em circulo](https://discuss.python.org/t/moving-the-mouse-in-a-circle/20493)
+ - [Documentação Python 3](https://docs.python.org/3/)
+
+
+## Instalação
+Tenha o Python3 Instalado.
+
+Abra o cmd e cole:
+
+```bash
+  git clone https://github.com/Silas000/EncomendaCheck.git
+```
+Após, instale as bibliotecas necessárias. 
+```bash
+  pip install requirements.txt
+```
+E para iniciar o uso, digite:
+```bash
+  python m.py
+```
+    
+## Demonstração
+
+Caso tenha duvidas, assista ao video:
+
+https://youtu.be/vnxciU62TGQ
