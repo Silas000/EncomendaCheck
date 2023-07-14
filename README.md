@@ -1,7 +1,7 @@
 
 # Encomenda Check
 
-Ferramenta que avisa movimentando o mouse em circulo quando a encomenda do correio sai  para ser entregue ao destinátario. 
+Ferramenta que avisa movimentando o mouse em circulo quando a encomenda do correio sai  para ser entregue ao destinatário. 
 
 
 
