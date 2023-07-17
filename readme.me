@@ -28,7 +28,7 @@ Abra o cmd e cole:
 ```
 Após, instale as bibliotecas necessárias. 
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 E para iniciar o uso, digite:
 ```bash
